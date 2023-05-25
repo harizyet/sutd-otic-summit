@@ -4147,3 +4147,16 @@ input, select, textarea {
 		}
 
 	}
+
+	.container {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		gap: 2rem;
+	}
+
+	.collab-image{
+		width: 10rem;
+		height: auto;
+		object-fit: contain;
+	}
