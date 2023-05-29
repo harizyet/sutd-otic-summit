@@ -1,0 +1,13 @@
+(1) In the very beginning (title page), suggest to add " Hosted by Asia & Pacific Open Testing and Integration Centre (OTIC) " above the line of SUTD. please give the full address of SUTD campus below the line of SUTD (8 Somapah Road Singapore 487372).
+
+(2) please use some other (e.g., stock) images for the four sections: round tables, collaborations, ... The current images are either missing or the resolution is low. 
+
+(3) please change "in collaboration with: (three logos)" into "Hosted by Asia & Pacific Open Testing and Integration Centre (OTIC) (with a hyperlink to https://fcp.sutd.edu.sg/otic/ and SUTD logo), with support from: (IMDA) and (Keysight) logos". 
+(4) Please add one more section (maybe in the very beginning below the title page and before the other four sections): "Confirmed keynote speakers: Dr. Alex Jinsung Choi, Chairman of the O-RAN ALLIANCE and SVP Group Technology, Deutsche Telekom.  Dr. Chih-Lin I, co-chair of the O-RAN Alliance Technical Steering Committee (TSC) and chief scientist of wireless technologies at China Mobile.
+
+----
+
+- make the page for the registration button as well? (I guess maybe we can use a google form?) 
+- work with Dawn to make that registration page part of the fcp website? https://fcp.sutd.edu.sg/
+- For the actual registration page, maybe you can check with Dawn what are the information required, I guess: name, salutation, organisation, designation, country, email, will be needed. Also, we may add otic@sutd.edu.sg as the contact email, in case people have any questions.
+
